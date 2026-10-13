@@ -1,6 +1,6 @@
 // Service worker : tout est mis en cache pour que l'app marche hors ligne.
 // Incrémenter VERSION à chaque modification des fichiers.
-const VERSION = 'carnet-v7';
+const VERSION = 'carnet-v8';
 const ASSETS = [
   './',
   'index.html',
